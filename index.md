@@ -1,4 +1,3 @@
-# Welcome to Arjun's Personal Homepage
 
 Hello, I'm **Arjun**, an engineering student with a passion for technology and innovation.
 
