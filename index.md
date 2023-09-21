@@ -1,5 +1,5 @@
 
-# Welcome to Arjun's Personal Website
+
 
 Hello, I'm **Arjun**, an engineering student with a passion for technology and innovation.
 
